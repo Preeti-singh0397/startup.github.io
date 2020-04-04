@@ -1,0 +1,40 @@
+
+body,html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Baloo Thambi 2', cursive;
+    background-image: url(header.jpg)  ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    height: 100%;
+}
+
+
+.text_style{
+    color: #444444;
+    
+}
+.btn_style{
+    border-radius: 20px;
+    background-color: rgb(209, 74, 25);
+    border-color: rgb(209, 74, 25);
+    
+
+}
+.buffer{
+    height: 10rem;
+}
+.btn:hover{
+    background-color: rgb(209, 74, 25);
+    border-color: rgb(209, 74, 25);
+    border-width: 4px;
+}
+.line_style{
+    border-color:rgb(209, 74, 25) ;
+    border-width: 3px;
+    max-width: 3rem;
+}
